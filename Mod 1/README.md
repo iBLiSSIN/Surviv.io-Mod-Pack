@@ -1,6 +1,20 @@
+# Surviv.io Mods made by [VNBPM](https://www.youtube.com/channel/UCMZkPR_pngZGGRB8Ec7BkHA), do not reup and delete the creator
 ![screenshot]()
-# Surviv.io mods by [VNBPM](https://www.youtube.com/channel/UCMZkPR_pngZGGRB8Ec7BkHA)
-Mods for surviv.io
+
+## 🎁 Features
+
+-  Changes the buildings 
+-  Make smoke be skull
+-  Make frags be pineapples, mirvs be breads, and mines be crabs
+-  Better map: stone crate, tree crate, and show where are on the map
+-  Changes bushes and trees
+-  Make barrels be campfires
+-  New look for some melee weapons
+
+## 💡 Using hack instruction
+
+- No menu / You can not change settings
+- Don't use this mod if you not understand it!
 
 ##  🛠  Installation instruction (Injection)
 
