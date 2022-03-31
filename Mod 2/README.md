@@ -9,7 +9,7 @@
 -  Recolor hidden crates in green: barrel crate, stone crate, and tree crate, and show where are on the map
 -  Make bushes and trees transparent
 -  Recolor barrels in red
--  Make bullets more visible
+-  Make bullets more visible and be red
 
 ## 💡 Using hack instruction
 
@@ -19,7 +19,7 @@
    - The red circle is the cache tree (will spawn a Mosin-Nagant if you destroy it)
    - The blue circle is the cache stone (will spawn an ak47 if you destroy it)
    - The orange circle: the location of the cache barrel
-- Stay away from anything red, they can cause you to lose HP! Dark/light red depending on how much damage they do!
+- Stay away from anything red, they can cause you to lose HP! Dark/Light red depending on how much damage they do (Dark red is danger than light red!
 
 ##  🛠  Installation instruction (Injection)
 
