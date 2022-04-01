@@ -1,5 +1,5 @@
 # Surviv.io Mods made by [VNBPM](https://www.youtube.com/channel/UCMZkPR_pngZGGRB8Ec7BkHA), do not reup and delete the creator
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/iBLiSSIN/Surviv.io-Mod-Pack/main/Mod%201/Screenshot%20(330).png)
 
 ## 🎁 Features
 
